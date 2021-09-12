@@ -4,5 +4,5 @@ interactive websites and applications with UI/UX best practices.
 I'm currently working at becoming skilled with CSS animations and transitions 📚
 
 📫 How to reach me
-justinsouz1029@gmail.com 
+justinsouza1029@gmail.com 
 
